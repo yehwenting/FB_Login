@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Surf Connect</string>
+    <string name="FACEBOOK_APP_ID">1605599286152414</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">d76106a1ecd547add72910031fef71c3</string>
+    <string name="ak_login_protocol_scheme">ak1605599286152414</string>
+    <string name="fb_login_protocol_scheme">fb1605599286152414</string>
+    //LoginActivity
+    <string name="accountkit_button_label">CONTINUE</string>
+    <string name="login_label">Email or Phone Number</string>
+    //AccountActivity
+    <string name="account">Account</string>
+    <string name="id_label">ID : </string>
+    <string name="name_label">姓名 : </string>
+    <string name="name">Enter your name</string>
+    <string name="stuID_label">學號 :</string>
+    <string name="stuID">Enter your student ID</string>
+    <string name="logout_label">Log Out</string>
+    <string name="phone_label">手機 :</string>
+    <string name="phone">Enter your phone number</string>
+    <string name="email_label">Email :</string>
+    <string name="email">Enter you email</string>
+    <string name="submit">SUBMIT</string>
+</resources>

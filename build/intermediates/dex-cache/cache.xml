@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\934a72cf88471c50a11d30b4d4df1bfd57eba864\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79ae84e861f059170aacca06eb64623c7d559d85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\aba82312d359e435a635607f6348645a44e2a809\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_891b59bbee1bd8602783881731a82c258a63f6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\5a9e96296d38dc6cf216e6a58191bd6ee2286d66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e42c12985adf1bc48bb92cfc15ecbeb121fcd48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62e19f11921bf6a0570097e512837a253e3690e6">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d01741ab3d679d270c42e89b628c276886a6bf91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_5c2a521a4f9a8560e7ef1ea8b049701b8949b340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\f8ce464e8603e2cfa51412b459e52747cf5a98da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc84b7f0adc0df0d7527b0cabeb49147013a29c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\0ca765a265022ff44d614bd4323ee3969acc50be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efd4fe125f22d9c61d54da083fb89aea2534aeee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d319ed26cebd9c3cee8249aa2793c4aae6b8f248\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f172d0deb3a5e659c8dd7be6de19679732b5c069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\d49704720a6b768021c407b0e5d4f472f34144b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d54ded2e7418e15e233a656f6bd9ba42da618f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\6f325e503b1e502642ea81d5fefbed12c677c4cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ced4efc719f7ce14d3d2345f9d5fa534b812aa31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.android\build-cache\12943b7cb765b190f7ec26e6f3e79ffdc31d6033\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825740459addf8479f24d2e51fef15f5d9b0c681">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a77dba389d0f63e6967b3779933420c2ffa12598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\facebook-account-kit-android-master\lesson3\FacebookLoginStarter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e14d4002f65b38d32a873399aefbc09fad5cca51\classes.dex" />
+    </item>
+
+</items>
